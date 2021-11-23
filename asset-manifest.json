@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/waldojohn/static/css/main.97ca42a3.chunk.css",
+    "main.js": "/waldojohn/static/js/main.9b241d2b.chunk.js",
+    "main.js.map": "/waldojohn/static/js/main.9b241d2b.chunk.js.map",
+    "runtime-main.js": "/waldojohn/static/js/runtime-main.0c6ea971.js",
+    "runtime-main.js.map": "/waldojohn/static/js/runtime-main.0c6ea971.js.map",
+    "static/js/2.bd5e6d3f.chunk.js": "/waldojohn/static/js/2.bd5e6d3f.chunk.js",
+    "static/js/2.bd5e6d3f.chunk.js.map": "/waldojohn/static/js/2.bd5e6d3f.chunk.js.map",
+    "index.html": "/waldojohn/index.html",
+    "precache-manifest.4d7952a6c509d859b25f7e955fc6e44f.js": "/waldojohn/precache-manifest.4d7952a6c509d859b25f7e955fc6e44f.js",
+    "service-worker.js": "/waldojohn/service-worker.js",
+    "static/css/main.97ca42a3.chunk.css.map": "/waldojohn/static/css/main.97ca42a3.chunk.css.map",
+    "static/js/2.bd5e6d3f.chunk.js.LICENSE.txt": "/waldojohn/static/js/2.bd5e6d3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c6ea971.js",
+    "static/js/2.bd5e6d3f.chunk.js",
+    "static/css/main.97ca42a3.chunk.css",
+    "static/js/main.9b241d2b.chunk.js"
+  ]
+}
